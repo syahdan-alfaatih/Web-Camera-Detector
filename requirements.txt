@@ -4,3 +4,4 @@ opencv-python-headless
 Flask-SocketIO
 eventlet
 gunicorn
+eventlet
